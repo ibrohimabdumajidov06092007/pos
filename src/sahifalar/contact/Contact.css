@@ -1,0 +1,33 @@
+.big-in {
+  width: 40%;
+  margin: 20px auto;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.big-in input {
+  width: 100%;
+  height: 40px;
+  margin: 5px 0px;
+  border-radius: 5px;
+}
+.big-in .rr {
+  height: 100px;
+}
+.big-in .ik1 {
+  background-color: rgb(210, 3, 3);
+  color: #fff;
+  height: 20px;
+  width: 100px;
+  margin: 10px 2px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.5s;
+  margin: auto;
+}
+@media only screen and (max-width: 700px) {
+  .ol {
+    display: none;
+  }
+}

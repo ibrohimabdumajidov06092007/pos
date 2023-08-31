@@ -1,0 +1,10 @@
+.foter {
+  color: rgb(86, 83, 83);
+  padding: 60px;
+  text-align: center;
+}
+@media only screen and (max-width: 700px) {
+  .foter {
+    font-size: 20px;
+  }
+}
